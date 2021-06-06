@@ -1,6 +1,8 @@
 {
-  "name": "with-tailwindcss",
-  "version": "0.1.0",
+  "name": "v2",
+  "description": "Personal website v2",
+  "version": "1.0.0",
+  "author": "Tyler Lai <lai.t.tyler@gmail.com>"
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +10,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "framer-motion": "^4.1.17",
     "next": "latest",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
