@@ -2,7 +2,7 @@
   "name": "v2",
   "description": "Personal website v2",
   "version": "1.0.0",
-  "author": "Tyler Lai <lai.t.tyler@gmail.com>"
+  "author": "Tyler Lai <lai.t.tyler@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
