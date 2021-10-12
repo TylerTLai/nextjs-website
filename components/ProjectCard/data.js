@@ -3,8 +3,17 @@ import { v4 as uuidv4 } from "uuid";
 export const projectData = [
   {
     id: uuidv4(),
+    title: "People Pod",
+    description:
+      "A full-stack personal CRM that allows users to build better relationships.",
+    github: "https://github.com/TylerTLai/People-Pod",
+    link: "https://people-pod.vercel.app/",
+    technologies: ["nextJS", "tailwindCSS", "Prisma"],
+  },
+  {
+    id: uuidv4(),
     title: "Personal Site",
-    description: "A NextJS and Tailwind CSS personal website.",
+    description: "This personal website used to showcase my projects.",
     github: "https://github.com/TylerTLai/nextjs-website",
     link: "https://www.tylerlai.com/",
     technologies: ["nextJS", "tailwindCSS", "Framer Motion"],

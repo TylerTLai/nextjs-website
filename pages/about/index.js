@@ -63,13 +63,15 @@ const About = () => {
           <p className="text-4xl font-semibold text-gray-800">Skillset</p>
           <div className="flex flex-wrap mt-5 text-gray-400 gap-x-24">
             <ul>
-              <li className="mt-0">JavaScript ES6+</li>
+              <li className="mt-0">JavaScript</li>
               <li className="mt-3">React</li>
               <li className="mt-3">Redux</li>
               <li className="mt-3">TypeScript</li>
+              <li className="mt-3">React Testing</li>
             </ul>
             <ul>
               <li className="mt-0 md:mt-3 lg:mt-0">NextJS</li>
+              <li className="mt-3">Prisma ORM</li>
               <li className="mt-3">Express</li>
               <li className="mt-3">MongoDB</li>
               <li className="mt-3">Figma</li>
