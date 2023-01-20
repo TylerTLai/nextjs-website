@@ -65,15 +65,19 @@ const About = () => {
             <ul>
               <li className="mt-0">JavaScript</li>
               <li className="mt-3">React</li>
-              <li className="mt-3">Redux</li>
+              <li className="mt-3">React Three Fiber</li>
+              <li className="mt-3">Three JS</li>
+              <li className="mt-3">Redux Toolkit</li>
               <li className="mt-3">TypeScript</li>
               <li className="mt-3">React Testing</li>
             </ul>
             <ul>
               <li className="mt-0 md:mt-3 lg:mt-0">NextJS</li>
-              <li className="mt-3">Prisma ORM</li>
+              <li className="mt-3">AWS</li>
               <li className="mt-3">Express</li>
               <li className="mt-3">MongoDB</li>
+              <li className="mt-3">Firebase</li>
+              <li className="mt-3">AntDesign</li>
               <li className="mt-3">Figma</li>
             </ul>
           </div>
